@@ -1,0 +1,10 @@
+{
+  "botToken": "",
+  "startMessage": "Привет! я умею рекомендовать фильмы. Просто напиши название своего любимого фильма, и я поищу похожий.",
+  "helpMessage": "Пока я ничего не умею",
+  "host": "kinopoiskapiunofficial.tech",
+  "schema": "https",
+  "requestHeaders": {
+    "X-API-KEY": ""
+  }
+}
